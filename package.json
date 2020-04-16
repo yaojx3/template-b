@@ -1,12 +1,12 @@
 {
-  "name": "",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "op"
   },
-  "author": "",
+  "author": "{{author}}",
   "license": "ISC",
   "dependencies": {
     
